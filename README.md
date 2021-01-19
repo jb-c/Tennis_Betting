@@ -1,4 +1,4 @@
-# Tennis_Betting
+# Tennis Betting
 A project which aims to make money by betting on the outcome of tennis matches. I used both a theoretical model and a ML model to come up with my idea of 'the odds' which I then compare with bookmaker's odds to determie how to bet.
 
 ## Project Outline
@@ -8,11 +8,11 @@ A project which aims to make money by betting on the outcome of tennis matches. 
 4. Backtesting - Using the models to inform betting strategies.
 
 ## Project Results
-Model Accuracy
+Model Accuracy<br>
 ![alt text](https://raw.githubusercontent.com/jb-c/Tennis_Betting/main/4.%20Backtesting/model%20accuracy.jpeg "ML Model Accuracy")<br>
-Betting Returns
+Betting Returns<br>
 ![alt text](https://raw.githubusercontent.com/jb-c/Tennis_Betting/main/4.%20Backtesting/bankroll.jpeg "Betting Strategy Returns")
 
 ### References & Resources
-[Ian Mchale's Paper on Tennis Modelling](https://www.researchgate.net/publication/223649887_A_Bradley-Terry_type_model_for_forecasting_tennis_match_results)<br>
-[Smarkets API](https://docs.smarkets.com/)
+* [Ian Mchale's Paper on Tennis Modelling](https://www.researchgate.net/publication/223649887_A_Bradley-Terry_type_model_for_forecasting_tennis_match_results)
+* [Smarkets API](https://docs.smarkets.com/)
